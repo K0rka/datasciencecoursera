@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for https://www.coursera.org/learn/data-scientists-tools
+Repo for Different data science/ data analysis courses
